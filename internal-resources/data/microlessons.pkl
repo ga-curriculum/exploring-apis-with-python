@@ -9,24 +9,30 @@ setup = new Template.Microlesson {
   videoUrl = ""
 }
 
-concepts = new Template.Microlesson {
-  friendlyName = "Concepts"
-  dirName = "concepts"
+whatIsAnApi = new Template.Microlesson {
+  friendlyName = "What is an API?"
+  dirName = "what-is-an-api"
   type = "Content"
   videoUrl = ""
 }
 
-microlesson01 = new Template.Microlesson {
-  friendlyName = "Microlesson 01"
-  dirName = "microlesson-01"
+makingAnHttpRequest = new Template.Microlesson {
+  friendlyName = "Making an HTTP Request"
+  dirName = "making-an-http-request"
   type = "Content"
   videoUrl = ""
 }
 
-microlesson02 = new Template.Microlesson {
-  friendlyName = "Microlesson 02"
-  dirName = "microlesson-02"
+evaluatingApis = new Template.Microlesson {
+  friendlyName = "Evaluating APIs"
+  dirName = "evaluating-apis"
   type = "Content"
   videoUrl = ""
 }
 
+wrapUp = new Template.Microlesson {
+  friendlyName = "Wrap Up"
+  dirName = "wrap-up"
+  type = "Content"
+  videoUrl = ""
+}
