@@ -58,7 +58,7 @@ Once you've identified the URL and the method, you can make the request using Py
 ```python
 import requests
 
-url = "https://api.example.com/data?"
+url = "https://api.example.com/data"
 
 data = requests.get(url)
 ```
