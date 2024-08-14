@@ -1,23 +1,24 @@
 <!-- ! Do not delete or rename this file! -->
+
 <h1>
   <span class="prefix"></span>
   <span class="headline">Exploring APIs with Python</span>
 </h1>
 
-tktk add some default course navigation content here.
+## About
 
-tktk This landing page will be used when a student's course cannot be determined, so don't include any course-specific details.
+This module introduces students to the foundational concepts of working with APIs (Application Programming Interfaces). It covers what APIs are, how they enable communication between software applications, and the process of making HTTP requests to access data from external sources. Students will learn how to evaluate API documentation, understand request methods like `GET` and `POST`, and handle responses, including working with JSON data.
 
 ## Content
 
-| Lesson                                                   | Skills                                  |
-| -------------------------------------------------------- | --------------------------------------- |
-| [Setup](./setup/README.md)                               | Setting up the development environment. |
-| [Concepts](./concepts/README.md)                         | tktk skills covered                     |
-| [tktk Microlesson Name](./tktk-microlesson-01/README.md) | tktk skills covered                     |
+| Lesson                                                       | Skills                                                                                                                                                             |
+| ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [Setup](../setup/README.md)                                   | Setting up the development environment.                                                                                                                            |
+| [What is an API?](../what-is-an-api/README.md)                | Understanding the basic concept of APIs and how they facilitate communication between software applications.                                                       |
+| [Making an HTTP Request](../making-an-http-request/README.md) | Learning how to make HTTP requests to APIs using tools like Postman or Python's `requests` library. Understanding request methods like GET, POST, PUT, and DELETE. |
+| [Evaluating APIs](../evaluating-apis/README.md)               | Assessing API documentation, determining the required parameters, endpoints, and understanding how to handle API responses effectively.                            |
+| [Wrap Up](../wrap-up/README.md)                               | Reviewing key concepts, ensuring comprehension, and preparing for the next topic.                                                                                  |
 
-## Level Up content
+## References
 
-| Lesson                                                   | Skills              |
-| -------------------------------------------------------- | ------------------- |
-| [tktk Microlesson Name](./tktk-microlesson-02/README.md) | tktk skills covered |
+📖 [Reference Materials](../references/README.md)

@@ -5,4 +5,4 @@
 
 ## Lesson references
 
-- [tktk descriptive name of link](https://generalassemb.ly/tktk)
+- [Public APIs](https://github.com/public-apis/public-apis)
