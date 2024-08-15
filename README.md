@@ -25,7 +25,7 @@ This module introduces students to the foundational concepts of working with API
 | [What is an API?](./what-is-an-api/README.md)                | Understanding the basic concept of APIs and how they facilitate communication between software applications.                                                       |
 | [Making an HTTP Request](./making-an-http-request/README.md) | Learning how to make HTTP requests to APIs using tools like Postman or Python's `requests` library. Understanding request methods like GET, POST, PUT, and DELETE. |
 | [Evaluating APIs](./evaluating-apis/README.md)               | Assessing API documentation, determining the required parameters, endpoints, and understanding how to handle API responses effectively.                            |
-| [Wrap Up](./wrap-up/README.md)                               | Reviewing key concepts, ensuring comprehension, and preparing for the next topic.                                                                                  |
+| [Wrap Up](./wrap-up/README.md)                               | Reviewing key concepts and preparing for the next module.                                                                                                          |
 
 ## References
 
