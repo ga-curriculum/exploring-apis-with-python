@@ -25,11 +25,21 @@ Every API is unique — you will have to explore its documentation to figure out
 3. What will the response data look like?
    - Typically, the response will be JSON.
 
-## Group Exercise: API Scavenger Hunt 30 min TKTK
+<br>
 
-APIs open up a whole world of new information to our Python programs. Let’s see just how much information you can find in **Section 7.2** of the workbook.
+<div class="activity group-exercise">
+  <h2 class="title">1.2 API Scavenger Hunt</h2>
+  <span class="minutes">30 min</span>
+</div>
 
-## Guided Walk-Through: Let's Go API Shopping 15 min TKTK
+APIs open up a whole world of new information to our Python programs. Let’s see just how much information you can find in **Section 1.2** of the workbook.
+
+<br>
+
+<div class="activity guided-walkthrough">
+  <h2 class="title">Let's Go API Shopping</h2>
+  <span class="minutes">15 min</span>
+</div>
 
 Using APIs listed in the public-apis project, let's see what to expect from documentation sources.
 

@@ -16,7 +16,12 @@
 
 ## What Are APIs?
 
-### Discussion: External Data TKTK
+<br>
+
+<div class="activity discussion">
+  <h2 class="title">External Data</h2>
+  <span class="minutes"></span>
+</div>
 
 Have you ever needed information that wasn’t ready to go in a file? Things like reference information, up-to-the-minute updated data, or data from an external vendor or another team within your organization?
 
@@ -33,7 +38,7 @@ APIs, or **application programming interfaces**, are data sources that can give 
 
 Many websites show their users information from third-party sources.
 
-> 🍎 Thanks to APIs, you can use Python to request and use information from all across the web — whether it’s a weather report, a stock price, or the latest news headlines. It’s time for our programs to become full-fledged citizens of the internet by interacting with other applications.
+> 💡 Thanks to APIs, you can use Python to request and use information from all across the web — whether it’s a weather report, a stock price, or the latest news headlines. It’s time for our programs to become full-fledged citizens of the internet by interacting with other applications.
 
 ## It’s All Interfaces?
 

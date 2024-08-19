@@ -169,8 +169,13 @@ response = requests.get(url)
 print(response.json())
 ```
 
-## Partner Exercise: Weather API Application 20 min TKTK
+<br>
+
+<div class="activity partner-exercise">
+  <h2 class="title">1.1 Weather API Application</h2>
+  <span class="minutes">20 min</span>
+</div>
 
 Let's practice making an API call in Python.
 
-Complete the functionality for a weather application in **Section 7.1** of the workbook.
+Complete the functionality for a weather application in **Section 1.1** of the workbook.
