@@ -26,7 +26,7 @@ This URL might look complex, but it's structured in a way that allows you to req
 
 ## Components of a URL
 
-![URL Anatomy Example](./assets/url-anatomy-b.png)
+<img src="./assets/url-anatomy-b.png" alt="URL Anatomy Example Image" style="width: 800px; height: auto;">
 
 Go to <https://developer.mozilla.org/search?q=reduce>.
 
@@ -75,13 +75,15 @@ Here's an example of what JSON data might look like:
 {
   "data": "car",
   "make": "ford",
-  "model": "focus",
+  "model": "explorer",
   "details": {
-    "color": "blue",
+    "color": "red",
     "mileage": "54019"
   }
 }
 ```
+
+<img src="./assets/car.png" alt="Car Image" style="width: 300px; height: auto;">
 
 JSON looks similar to Python dictionaries but isn't directly usable in Python without some conversion.
 
@@ -109,16 +111,16 @@ Let's look at an example:
 response = {
   "data": "car",
   "make": "ford",
-  "model": "focus",
+  "model": "explorer",
   "details": {
-    "color": "blue",
+    "color": "red",
     "mileage": "54019"
   }
 }
 
 print(response)                     # Outputs the entire dictionary
 print(response["details"])          # Outputs the nested dictionary under "details"
-print(response["details"]["color"]) # Outputs the value "blue"
+print(response["details"]["color"]) # Outputs the value "red"
 ```
 
 ### Helpful Tips for Working With JSON
@@ -130,6 +132,8 @@ print(response["details"]["color"]) # Outputs the value "blue"
 ## API Keys
 
 Many APIs require you to include a key with your HTTP request. An API key is a unique identifier that grants you access to the API's resources. You can think of it as a password that helps secure the API and ensure that only authorized users can access its data.
+
+<img src="./assets/key.png" alt="Key Image" style="width: 300px; height: auto;">
 
 ### Why Are API Keys Important?
 
@@ -179,3 +183,5 @@ print(response.json())
 Let's practice making an API call in Python.
 
 Complete the functionality for a weather application in **Section 1.1** of the workbook.
+
+<img src="./assets/thermometer.png" alt="Thermometer Image" style="width: 300px; height: auto;">

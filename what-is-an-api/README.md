@@ -9,10 +9,12 @@
 | --------------- | -------- |
 | What is an API? | 15 min   |
 
-## In this lesson, you will:
+## Our Learning Goals:
 
 - Make HTTP requests for data to external API sources.
 - Evaluate API documentation to determine data contents, accessibility, and request formatting.
+
+<img src="./assets/learning-objectives.png" alt="Clipboard Image" style="width: 300px; height: auto;">
 
 ## What Are APIs?
 
@@ -34,7 +36,7 @@ Have you ever needed information that wasn’t ready to go in a file? Things lik
 
 APIs, or **application programming interfaces**, are data sources that can give you access to information from all sorts of places on the internet. Simply put, an API is a system that receives `requests` and returns `responses`.
 
-![Image Placeholder](./assets/api-request.png)
+<img src="./assets/api-request.png" alt="API Request Image" style="width: 800px; height: auto;">
 
 Many websites show their users information from third-party sources.
 

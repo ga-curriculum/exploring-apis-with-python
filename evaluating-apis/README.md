@@ -34,6 +34,8 @@ Every API is unique — you will have to explore its documentation to figure out
 
 APIs open up a whole world of new information to our Python programs. Let’s see just how much information you can find in **Section 1.2** of the workbook.
 
+<img src="./assets/magnifying-glass.png" alt="Magnifying Glass Image" style="width: 200px; height: auto;">
+
 <br>
 
 <div class="activity guided-walkthrough">
@@ -42,6 +44,8 @@ APIs open up a whole world of new information to our Python programs. Let’s se
 </div>
 
 Using APIs listed in the public-apis project, let's see what to expect from documentation sources.
+
+<img src="./assets/shopping-cart.png" alt="Shopping Cart Image" style="width: 200px; height: auto;">
 
 Here are a few collections of third-party APIs to explore:
 
@@ -60,3 +64,5 @@ Pro Tips when Evaluating an API:
 **Test the API**: Once you’ve reviewed the documentation, try sending a few test requests to see how the API responds. This will give you a hands-on understanding of its functionality.
 
 **Use Tools Like Postman**: Postman is a great tool for quickly sending requests and evaluating APIs. It provides an intuitive interface that can help you understand how to interact with APIs before writing any code.
+
+<img src="./assets/pencils-cup.png" alt="Pencils in Cup Image" style="width: 200px; height: auto;">
