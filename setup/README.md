@@ -11,6 +11,8 @@
 
 In this lesson, we'll practice making requests to a third-party API to retrieve weather forecast data. To get started, we'll need an API key to access the weather data. Let's walk through the process of obtaining and setting up your API key.
 
+<img src="./assets/key.png" alt="Key Image" style="width: 300px; height: auto;">
+
 ### Setting Up Your Account
 
 We'll be using the [OpenWeatherMap API](https://home.openweathermap.org/) for this exercise. Follow these steps to get started:
