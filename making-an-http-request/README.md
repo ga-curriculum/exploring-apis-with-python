@@ -184,4 +184,4 @@ Let's practice making an API call in Python.
 
 Complete the functionality for a weather application in **Section 1.1** of the workbook.
 
-<img src="./assets/thermometer.png" alt="Thermometer Image" style="width: 300px; height: auto;">
+<img src="./assets/thermometer.png" alt="Thermometer Image" style="width: 100px; height: auto;">
