@@ -83,7 +83,7 @@ Here's an example of what JSON data might look like:
 }
 ```
 
-<img src="./assets/car.png" alt="Car Image" style="width: 300px; height: auto;">
+<img src="./assets/car.png" alt="Car Image" style="width: 400px; height: auto;">
 
 JSON looks similar to Python dictionaries but isn't directly usable in Python without some conversion.
 
@@ -133,7 +133,7 @@ print(response["details"]["color"]) # Outputs the value "red"
 
 Many APIs require you to include a key with your HTTP request. An API key is a unique identifier that grants you access to the API's resources. You can think of it as a password that helps secure the API and ensure that only authorized users can access its data.
 
-<img src="./assets/key.png" alt="Key Image" style="width: 300px; height: auto;">
+<img src="./assets/key.png" alt="Key Image" style="width: 200px; height: auto;">
 
 ### Why Are API Keys Important?
 
