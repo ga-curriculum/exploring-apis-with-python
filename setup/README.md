@@ -35,7 +35,7 @@ Don't worry if it takes a little time for the API key to become active—everyth
 
 ## Setup
 
-The practice exercises for this lesson can be found in the `01-apis.py` file of the [Python Flask Exercises](https://git.generalassemb.ly/modular-curriculum-all-courses/python-flask-exercises) repository.
+The practice exercises for this lesson can be found in the `01-apis.py` file of the [Python Flask Exercises](https://github.com/ga-curriculum/python-flask-exercises) repository.
 
 ### Prepare Your Environment
 
